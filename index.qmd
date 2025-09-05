@@ -1,0 +1,316 @@
+---
+title: "O futuro do jornalismo de dados"
+author: "[Ana Carolina Moreno](https://www.linkedin.com/in/anacarolinamoreno/)<br>Jornalismo do Futuro (O Globo)<br>Set/2025"
+format: 
+  revealjs:
+    footer: "[bit.ly/ddj_oglobo_2025](https://www.linkedin.com/in/anacarolinamoreno/)&nbsp;&nbsp;&nbsp;"
+    theme: [serif, custom.scss]
+    preview-links: auto
+    chalkboard: 
+      boardmarker-width: 5
+from: markdown+emoji
+execute:
+  echo: true
+---
+
+## Apresentação
+
+<br/>
+
+- Jornalista formada pela ECA-USP em 2006
+- Ex-Foca do Estadão (2006)
+- Passagens: Jornal da Tarde, Folha de S. Paulo, g1, TV Globo, InvestNews
+- Jornalista de dados desde 2017
+- Diretora da Abraji e instrutora de cursos de dados
+- Contato: [**LinkedIn**](https://www.linkedin.com/in/anacarolinamoreno/){style="background-color:#f3d00c"}
+
+---
+
+## O que vamos ver hoje
+
+<br/>
+
+1. O passado do DDJ
+2. O presente do DDJ
+3. O futuro do DDJ
+4. A vez de vocês
+
+# O passado do DDJ
+
+::: {.absolute top="0" left="100%"}
+::: {.sectionhead}
+1 [2 3 4]{style="opacity:0.25"}
+:::
+:::
+
+---
+
+## jornalismo X jornalismo de dados
+
+::: {.absolute top="0" left="100%"}
+::: {.sectionhead}
+1 [2 3 4]{style="opacity:0.25"}
+:::
+:::
+
+<br>
+<br>
+
+::: {style="text-align: center"}
+[**Jornalismo de dados é, antes de tudo, jornalismo.**]{style="background-color:#f3d00c"}
+<br>
+<br>
+
+Muitos conceitos que as pessoas pensam ser próprios do jornalismo de dados podem ser (e deveriam estar sendo) incorporados por qualquer jornalista.
+:::
+
+---
+
+## jornalismo X ciência de dados
+
+::: {.absolute top="0" left="100%"}
+::: {.sectionhead}
+1 [2 3 4]{style="opacity:0.25"}
+:::
+:::
+
+<br>
+<br>
+
+::: {style="text-align: center"}
+Com o [**avanço da ciência de dados**]{style="background-color:#f3d00c"}, o jornalismo absorveu técnicas da computação e da estatística na etapa de produção de ideias de pautas, orientação de reportagens e visualização de dados.
+:::
+
+---
+
+## dados sem jornalismo
+
+::: {.absolute top="0" left="100%"}
+::: {.sectionhead}
+1 [2 3 4]{style="opacity:0.25"}
+:::
+:::
+
+<br>
+<br>
+
+::: {style="text-align: center"}
+Apesar de existir demanda crescente por jornalistas de dados dentro e fora das redações, jornalista de dados [**não é melhor nem pior**]{style="background-color:#f3d00c"} que o resto das pessoas na equipe.
+<br>
+<br>
+(Aliás, jornalista que programa, mas não sabe contar histórias, é meio inútil...)
+:::
+
+---
+
+## um pouco de história
+
+::: {.absolute top="0" left="100%"}
+::: {.sectionhead}
+1 [2 3 4]{style="opacity:0.25"}
+:::
+:::
+
+<br>
+<br>
+
+::: {style="text-align: center"}
+Antes do Data-Driven Journalism [**(DDJ)**]{style="background-color:#f3d00c"}...
+<br>
+<br>
+...já existia a Reportagem com Auxílio do Computador [**(RAC)**]{style="background-color:#f3d00c"}
+:::
+
+---
+
+## e antes disso tudo...
+
+::: {.absolute top="0" left="100%"}
+::: {.sectionhead}
+1 [2 3 4]{style="opacity:0.25"}
+:::
+:::
+
+::: columns
+::: {.column width="30%"}
+<br>
+Artigo *"The College of Journalism"*
+<br>
+<br>
+(Joseph Pulitzer, 1904)
+<br>
+<br>[Leia o artigo](https://www.jstor.org/stable/25119561?refreqid=excelsior%3A9216a1bfa7873dae49d35beff9b2b01d&seq=33#metadata_info_tab_contents)
+:::
+:::
+
+::: {.column width="70%"}
+![](img/img01.png){.absolute top="90" left="330" height="70%" width="70%"}
+:::
+
+---
+
+## destaques atuais
+
+::: {.absolute top="0" left="100%"}
+::: {.sectionhead}
+1 [2 3 4]{style="opacity:0.25"}
+:::
+:::
+
+::: columns
+::: {.column width="30%"}
+
+:::
+:::
+
+::: {.column width="70%"}
+![](img/img02.png){.absolute top="90" left="330" height="70%" width="70%"}
+:::
+
+---
+
+## resumindo:
+
+::: {.absolute top="0" left="100%"}
+::: {.sectionhead}
+1 [2 3 4]{style="opacity:0.25"}
+:::
+:::
+
+<br>
+
+"Estatística não é só números."
+
+<br>
+
+. . .
+
+"Os números precisam ser analisados."
+
+<br>
+
+. . .
+
+"O/a jornalista deve sempre estar alerta para descobrir até que ponto os números são confiáveis — e o que eles significam."
+
+
+# O presente do DDJ
+
+::: {.absolute top="0" left="100%"}
+::: {.sectionhead}
+[1]{style="opacity:0.25"} 2 [3 4]{style="opacity:0.25"}
+:::
+:::
+
+---
+
+## ddj toolkit
+
+::: {.absolute top="0" left="100%"}
+::: {.sectionhead}
+[1]{style="opacity:0.25"} 2 [3 4]{style="opacity:0.25"}
+:::
+:::
+
+::: {.absolute top="0" left="100%"}
+::: {.sectionhead}
+1 [2 3 4]{style="opacity:0.25"}
+:::
+:::
+
+::: columns
+::: {.column width="30%"}
+<br>
+[**clique para acessar**](https://docs.google.com/spreadsheets/d/1P3No1fDWC3kpsNaCnHeCG-Fq00fJtRrFKiAWvqgCzMc/edit?usp=sharing){target="_blank" style="background-color:#f3d00c"}
+:::
+:::
+
+::: {.column width="70%"}
+![](img/img03.png){.absolute top="90" left="230"}
+:::
+
+# O futuro do DDJ
+
+::: {.absolute top="0" left="100%"}
+::: {.sectionhead}
+[1 2]{style="opacity:0.25"} 3 [4]{style="opacity:0.25"}
+:::
+:::
+
+---
+
+## IA x programadores
+
+<br>
+
+- LLMs te ajudam a escrever o código (mas você precisa entender a lógica para achar os erros)
+
+. . .
+
+- Curva de aprendizado para tirar o maior proveito da automatização (prompts certeiros e agentes com foco específico)
+
+. . .
+
+- [**Tarefas são substituíveis (e não as pessoas)**]{style="background-color:#f3d00c"}
+
+---
+
+## DDJ: a ponte entre tecnologia e jornalismo 
+
+::: {.absolute top="0" left="100%"}
+::: {.sectionhead}
+[1 2]{style="opacity:0.25"} 3 [4]{style="opacity:0.25"}
+:::
+:::
+
+<br>
+
+- Jornalistas sabem contar histórias
+
+. . .
+
+- Programadores sabem usar grandes bases de dados
+
+. . .
+
+- Jornalistas de dados [**sabem fazer os dois**]{style="background-color:#f3d00c"}
+
+---
+
+## vale para ontem, hoje e amanhã
+
+::: {.absolute top="0" left="100%"}
+::: {.sectionhead}
+[1 2]{style="opacity:0.25"} 3 [4]{style="opacity:0.25"}
+:::
+:::
+
+<br>
+
+[**"A base de dados nunca foi feita pra análise que você quer fazer. É você que tem que adequar sua análise às características dela."**]{style="background-color:#f3d00c"}
+
+# A vez de vocês
+
+::: {.absolute top="0" left="100%"}
+::: {.sectionhead}
+[1 2 3]{style="opacity:0.25"} 4
+:::
+:::
+
+---
+
+## recursos para entrar na área 
+
+::: {.absolute top="0" left="100%"}
+::: {.sectionhead}
+[1 2 3]{style="opacity:0.25"} 4
+:::
+:::
+
+<br>
+
+- Planilha colaborativa ([**clique para acessar**](https://docs.google.com/spreadsheets/d/1-4-BgfeUJIRRYlziEa86fR6SdjE_CGsFIzvvjpZa8FU/edit?gid=0#gid=0){target="_blank" style="background-color:#f3d00c"})
+
+
+
+
