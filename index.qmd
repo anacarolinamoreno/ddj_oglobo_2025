@@ -3,7 +3,7 @@ title: "O futuro do jornalismo de dados"
 author: "[Ana Carolina Moreno](https://www.linkedin.com/in/anacarolinamoreno/)<br>Jornalismo do Futuro (O Globo)<br>Set/2025"
 format: 
   revealjs:
-    footer: "[bit.ly/ddj_oglobo_2025](https://www.linkedin.com/in/anacarolinamoreno/)&nbsp;&nbsp;&nbsp;"
+    footer: "[bit.ly/ddj_oglobo_2025](https://bit.ly/ddj_oglobo_2025)&nbsp;&nbsp;&nbsp;"
     theme: [serif, custom.scss]
     preview-links: auto
     chalkboard: 
